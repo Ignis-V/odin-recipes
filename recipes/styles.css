@@ -1,0 +1,25 @@
+h1 {
+    padding-left: 250px; 
+    background-color: yellow;   
+}
+
+img {
+    width: 500px;
+    height: auto;
+    margin: 5px;
+    border: black 5px solid;
+    border-radius: 10px;
+
+}
+
+h2 {
+    color: #FF0000;
+}
+
+ul {
+    font-size: 20px;
+}
+
+ol {    
+    font-size: 25px;
+}
